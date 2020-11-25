@@ -1,0 +1,118 @@
+# Fragen
+
+- Wie heißt die Gruppe?
+- Wie findet man die Gruppe im WWW (URL)?
+- Welche Kontaktperson(en) hat die Gruppe (Name, Email, ORCID)?
+- In welcher Organisation / welchen Organisationen ist die Gruppe angesiedelt?
+- In welchen wissenschaftlichen Disziplinen ist die Gruppe tätig / unterstützt die Gruppe?
+- Mit welchen Projekten ist die Gruppe im Moment beschäftigt? (gern auch URLs)
+- Welche vor allem technischen Aspekte sind wichtig (z.Bsp. HPC, Web-Platform, Datenbanken, ...)
+- Wie finanziert sich die Gruppe?
+  - [ ] Drittmittel
+    - [ ] als (co-)PI?
+    - [ ] mit aktiver Beteiligung in Antragsphase?
+  - [ ] zentrale Mittel der Organisation
+  - [ ] Mittel anderer Einheiten der Organisation
+  - [ ] kommerzielle Angebote
+  - [ ] andere Quellen
+- Wie flexibel sind die Arbeitszeiten?
+- Wie groß ist die Gruppe (Vollzeitstellen)?
+- Wie ist die Gruppe zusammengesetzt?
+  - bzgl. Anzahl Leute
+  - bzgl. Anzahl Vollzeitstellen
+  - bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)
+  - bzgl. Art der Stelle: Professur / feste Angestellte / auf Zeit / auf Projektbasis
+  - bzgl. Abschlussart: keiner / Bachelor / Master / PhD
+  - bzgl. Wissenschaftsrichtung
+- Wie lange existiert die Gruppe schon?
+- Wie und von wem wurde die Gruppe gegründet? Warum?
+- Wie ist die momentane personelle Entwicklung der Gruppe? (wird kleiner/größer/gleichbleibend)
+  - Abschätzung: wie wird sich die Gruppengröße in den nächsten 3 Jahren entwickeln (konkrete Anzahl der Stellen)
+- Wie ist die Gruppe intern strukturiert? (flach, hierarchisch, ...)
+  - Wieviele Managementebenen sind das (1 Manager: 1; Manager für Manager: 2, ...)
+  - Welche Aufstiegsmöglichkeiten gibt es für neue RSEs in der Gruppe?
+  - Wer gibt "Richtung" vor?
+- Wie sieht ein typischer Tag eines RSEs aus?
+- im Mittel: Wieviele Projekte bearbeitet jeder RSEs gleichzeitig?
+- im Mittel: Wieviele RSEs sind gleichzeitig an einem Projekt tätig?
+  - Wieviele Vollzeitstellen sind das pro Projekt?
+- Wie tauschen sich RSEs innerhalb der Gruppe über Projekte hinweg aus?
+  - Wie gut funktioniert das wirklich?
+- Welche weiterführenden Trainigsmöglichkeiten haben die RSEs?
+  - Die RSEs werden dabei
+    - aktiv dazu angehalten, diese zu nutzen
+    - informiert, dass es diese gibt
+    - nicht aktiv unterstützt oder informiert
+  - Ist Weiterbildung Teil der Arbeit(szeit)? (ja/nein/teilweise)
+  - Gibt es auch Weiterbildung in Richtung soft-skills?
+- Wer sind die "Kunden" der Gruppe? (z.Bsp. Wissenschaftler einer Insitution, eines Standortes, eines Projekts, ...)
+- Wie nah sind RSEs an der Forschung des jeweiligen Projekts?
+  - unmittelbar beteiligt
+  - mit dabei
+  - lose eingebunden
+  - kaum beteiligt
+- Wie tauschen sich RSEs mit nicht-RSEs in Projekten aus?
+  - Treffen: wie oft / wie lange?
+  - Büros: gemeinsame oder "nahe" Büros?
+  - überhaupt persönliche Treffen? (von Corona mal abgesehen)
+- Wird open-source bevorzugt?
+- Spielen Belange von open-science eine besondere Rolle?
+- Wie wird die Arbeit der RSE-Gruppe bewertet?
+  - gar nicht
+  - ohne vordefinierte Metriken
+  - es gibt vordefinierte Metriken
+- Wird die Arbeit der einzelnen RSEs einzeln bewertet?
+  - nein
+  - ja
+    - wie?
+- Wird die aufgewendete Zeit pro Projekt gemessen?
+  - nein
+  - ja
+    - wie?
+- Wie werden die Projekte ausgewählt, an denen gearbeitet wird / werden soll?
+  - Wer entscheidet?
+    - Manager/-innen entscheiden
+    - Gruppe entscheidet
+    - der Gruppe übergeordnetes Organ entscheidet
+  - Anhand welcher Kriterien wird entschieden (sortieren wenn möglich)?
+    - [ ] Fertigkeiten
+    - [ ] Interesse
+    - [ ] wissenschaftliche Qualität der Projekte
+    - [ ] Sichtbarkeit der Projekte (und damit der Arbeit der Gruppe)
+    - [ ] (voraussichtliche) Verfügbarkeit von Arbeitskräften
+    - [ ] strategische Überlegungen (z.Bsp. breite wissenschaftl. Ausdehnung)
+- Welche Dauer können/dürfen Projekte haben?
+    - [ ] < 1 Woche
+    - [ ] > 1 Woche, < 1 Monat
+    - [ ] > 1 Monat, < 1 Jahr
+    - [ ] > 1 Jahr
+- Wie lange dauern Projekte typischerweise?
+    - [ ] < 1 Woche
+    - [ ] > 1 Woche, < 1 Monat
+    - [ ] > 1 Monat, < 1 Jahr
+    - [ ] > 1 Jahr
+- An Manager: wieviel Zeit (Prozent) ist für Management nötig?
+- Können Sie feste Stellen ausschreiben, haben dafür aber "nur" zeitlich begrenzte Projektgelder?
+- Können RSEs Teil ihrer Zeit an eigenen, finanziell ungeförderten Projekten arbeiten?
+  - nein
+  - ja
+    - ist das formal festgelegt?
+- Haben Sie Geld für Konferenzbesuche / Dienstreisen?
+  - nein
+  - ja
+    - etwa wieviel pro Person und Jahr?
+- Haben Sie Geld für persönliche Ausrüstung?
+  - nein
+  - ja
+    - etwa wieviel pro Person und Jahr?
+- Haben die Mitarbeiter das Recht, ihre Computer selbst zu administrieren (root/admin)?
+- Benutzen Sie ein internes issue-tracking System?
+  - nein
+  - ja
+    - welches?
+- Benutzen Sie ein issue-tracking System für externe Anfragen?
+  - nein
+  - ja
+    - welches?
+
+
