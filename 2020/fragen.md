@@ -1,12 +1,107 @@
 # Fragen
 
 - Wie heißt die Gruppe?
+  - ...
 - Wie findet man die Gruppe im WWW (URL)?
+  - ...
 - Welche Kontaktperson(en) hat die Gruppe (Name, Email, ORCID)?
+  - ...
 - In welcher Organisation / welchen Organisationen ist die Gruppe angesiedelt?
+  - ...
 - In welchen wissenschaftlichen Disziplinen ist die Gruppe tätig / unterstützt die Gruppe?
+  - ...
 - Mit welchen Projekten ist die Gruppe im Moment beschäftigt? (gern auch URLs)
+  - ...
 - Welche vor allem technischen Aspekte sind wichtig (z.Bsp. HPC, Web-Platform, Datenbanken, ...)
+  - ...
+- Wie groß ist die Gruppe?
+  - Personen: ...
+  - Vollzeitstellen: ...
+- Wie lange existiert die Gruppe schon?
+  - ...
+- Wie und von wem wurde die Gruppe warum gegründet?
+  - ...
+- Wie ist die momentane personelle Entwicklung der Gruppe? (wird kleiner/größer/gleichbleibend)
+  - ...
+- Abschätzung: wie wird sich die Gruppengröße in den nächsten 3 Jahren entwickeln (konkrete Änderung der Anzahl der Stellen)
+  - ...
+- Wie ist die Gruppe zusammengesetzt? (homogen, nicht homogen, ...)
+  - bzgl. Anzahl Personen
+    - ...
+  - bzgl. Anzahl Vollzeitstellen
+    - ...
+  - bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)
+    - ...
+  - bzgl. Art der Stelle: Professur / feste Angestellte / auf Zeit / auf Projektbasis
+    - ...
+  - bzgl. Abschlussart: keiner / Bachelor / Master / PhD
+    - ...
+  - bzgl. Hintergrund der RSEs: Wissenschaftsrichtungen
+    - ...
+  - Alter
+    - Durchschnitt: ...
+    - Streuung: ...
+- Wie flexibel sind die Arbeitszeiten (außerhalb Corona)?
+  - [ ] feste Arbeitszeiten
+  - [ ] feste Kernarbeitszeiten
+  - [ ] flexibel, aber Meetings in Person werden erwartet
+  - [ ] flexibel, Meetings auch remote möglich und nicht ungewöhnlich
+- Wie ist die Gruppe intern strukturiert?
+  - Wieviele Managementebenen sind das (1 Manager/-in: 1; Manager/-in für Manager/-innen: 2, ...)
+    - ...
+  - Welche Aufstiegsmöglichkeiten gibt es für neue RSEs in der Gruppe?
+    - ...
+- Wie hoch ist die Gefahr, (gute) RSEs abgeworben zu bekommen?
+  - [ ] sehr hoch
+  - [ ] hoch
+  - [ ] vorhanden, aber nicht besonders hoch
+  - [ ] nicht sehr hoch
+  - [ ] praktisch nicht vorhanden
+- Gelingt es, (gutes) Personal dauerhaft zu halten?
+  - [ ] (fast) immer
+  - [ ] meistens
+  - [ ] oft
+  - [ ] selten
+  - [ ] nie
+  - [ ] Gruppe ist zu jung, um Aussagen machen zu können
+- Wohin geht abgeworbenes Personal überwiegend?
+  - [ ] (andere) wissenschaftliche Stelle
+  - [ ] (andere) nichtwissenschaftliche Stelle, aber im akademischen Gebiet
+  - [ ] Wirtschaft
+  - [ ] Gruppe ist zu jung, um Aussagen machen zu können
+- Wo liegen die Hauptgründe für Abwerbungen?
+  - [ ] höheres Gehalt
+  - [ ] bessere/vorhandene Aufstiegsmöglichkeiten an anderer Stelle
+  - [ ] interessantere Tätigkeit woanders
+  - [ ] höhere Jobsicherheit (z.Bsp. feste Stelle statt Stelle auf Zeit)
+  - [ ] private Gründe (z.Bsp. Umzug)
+  - [ ] anderes: ...
+  - [ ] Gruppe ist zu jung, um Aussagen machen zu können
+- Wie sieht ein typischer Tag eines RSEs aus?
+  - ...
+- im Mittel: Wieviele Projekte bearbeitet jeder RSEs gleichzeitig?
+  - ...
+- im Mittel: Wieviele RSEs sind gleichzeitig an einem Projekt tätig?
+  - ...
+  - Wieviele Vollzeitstellen sind das pro Projekt?
+    - ...
+- Wie tauschen sich RSEs innerhalb der Gruppe über Projekte hinweg aus?
+  - ...
+  - Wie gut funktioniert das wirklich?
+    - ...
+- Welche weiterführenden Trainigsmöglichkeiten haben die RSEs?
+  - [ ] fach- oder projektspezifisch
+  - [ ] RSE-spezifisch
+  - [ ] soft-skills (z.Bsp. Persönlichkeitsentwicklung, Zeitmanagement, Lehre, ...)
+  - Die RSEs werden dabei
+    - [ ] aktiv dazu angehalten, diese zu nutzen
+    - [ ] informiert, dass es diese gibt
+    - [ ] nicht aktiv unterstützt oder informiert, Angebote existieren aber
+    - [ ] Es gibt keine.
+  - Ist Weiterbildung Teil der Arbeit(szeit)?
+    - [ ] ja
+    - [ ] nein
+    - [ ] teilweise
 - Wie finanziert sich die Gruppe?
   - [ ] Drittmittel
     - [ ] als (co-)PI?
@@ -15,65 +110,62 @@
   - [ ] Mittel anderer Einheiten der Organisation
   - [ ] kommerzielle Angebote
   - [ ] andere Quellen
-- Wie flexibel sind die Arbeitszeiten?
-- Wie groß ist die Gruppe (Vollzeitstellen)?
-- Wie ist die Gruppe zusammengesetzt?
-  - bzgl. Anzahl Leute
-  - bzgl. Anzahl Vollzeitstellen
-  - bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)
-  - bzgl. Art der Stelle: Professur / feste Angestellte / auf Zeit / auf Projektbasis
-  - bzgl. Abschlussart: keiner / Bachelor / Master / PhD
-  - bzgl. Wissenschaftsrichtung
-- Wie lange existiert die Gruppe schon?
-- Wie und von wem wurde die Gruppe gegründet? Warum?
-- Wie ist die momentane personelle Entwicklung der Gruppe? (wird kleiner/größer/gleichbleibend)
-  - Abschätzung: wie wird sich die Gruppengröße in den nächsten 3 Jahren entwickeln (konkrete Anzahl der Stellen)
-- Wie ist die Gruppe intern strukturiert? (flach, hierarchisch, ...)
-  - Wieviele Managementebenen sind das (1 Manager: 1; Manager für Manager: 2, ...)
-  - Welche Aufstiegsmöglichkeiten gibt es für neue RSEs in der Gruppe?
-  - Wer gibt "Richtung" vor?
-- Wie sieht ein typischer Tag eines RSEs aus?
-- im Mittel: Wieviele Projekte bearbeitet jeder RSEs gleichzeitig?
-- im Mittel: Wieviele RSEs sind gleichzeitig an einem Projekt tätig?
-  - Wieviele Vollzeitstellen sind das pro Projekt?
-- Wie tauschen sich RSEs innerhalb der Gruppe über Projekte hinweg aus?
-  - Wie gut funktioniert das wirklich?
-- Welche weiterführenden Trainigsmöglichkeiten haben die RSEs?
-  - Die RSEs werden dabei
-    - aktiv dazu angehalten, diese zu nutzen
-    - informiert, dass es diese gibt
-    - nicht aktiv unterstützt oder informiert
-  - Ist Weiterbildung Teil der Arbeit(szeit)? (ja/nein/teilweise)
-  - Gibt es auch Weiterbildung in Richtung soft-skills?
-- Wer sind die "Kunden" der Gruppe? (z.Bsp. Wissenschaftler einer Insitution, eines Standortes, eines Projekts, ...)
+- Wer sind die "Kunden/-innen" der Gruppe? (z.Bsp. Wissenschaftler/-innen einer Institution, eines Standortes, eines Projekts, ...)
+  - ...
 - Wie nah sind RSEs an der Forschung des jeweiligen Projekts?
-  - unmittelbar beteiligt
-  - mit dabei
-  - lose eingebunden
-  - kaum beteiligt
+  - [ ] unmittelbar beteiligt
+  - [ ] mit dabei, aber nicht Hauptakteure
+  - [ ] nur lose eingebunden
+  - [ ] kaum bis gar nicht beteiligt
 - Wie tauschen sich RSEs mit nicht-RSEs in Projekten aus?
-  - Treffen: wie oft / wie lange?
-  - Büros: gemeinsame oder "nahe" Büros?
-  - überhaupt persönliche Treffen? (von Corona mal abgesehen)
-- Wird open-source bevorzugt?
-- Spielen Belange von open-science eine besondere Rolle?
-- Wie wird die Arbeit der RSE-Gruppe bewertet?
-  - gar nicht
-  - ohne vordefinierte Metriken
-  - es gibt vordefinierte Metriken
-- Wird die Arbeit der einzelnen RSEs einzeln bewertet?
-  - nein
-  - ja
+  - Treffen
+    - Wie oft?
+      - ...
+    - Wie lange?
+      - ...
+  - Büros (RSE <-> nicht-RSE)
+    - [ ] eher gemeinsam
+    - [ ] nicht gemeinsames Büro, aber nahe beieinander (<1 Min zu Fuß & im Gebäude)
+    - [ ] weiter auseinander, aber noch "im Großraum" (<1h mit öffentlichen Verkehrsmitteln)
+    - [ ] >1h mit öffentlichen Verkehrsmitteln
+- Wie wird die Arbeit der RSE-Gruppe bewertet - gibt es Metriken?
+  - [ ] gar nicht
+  - [ ] ohne vordefinierte Metriken
+  - [ ] es gibt vordefinierte Metriken
+- Wie oft wird bewertet?
+  - [ ] <= jeden Monat
+  - [ ] <= jedes Jahr
+  - [ ] <= drei Jahre
+  - [ ] > 3 Jahre
+  - [ ] nie
+- Hängen an der Bewertung verfügbare Mittel?
+  - [ ] Ja, ein Großteil / alle
+  - [ ] Ja, spürbar, aber nicht ein Großteil der Mittel
+  - [ ] nur ein kleiner Teil / gar keine
+  - [ ] Es gibt keine Bewertung
+- Wer bewertet die RSE-Gruppe?
+  - ...
+- Wird die Arbeit der einzelnen RSEs intern einzeln bewertet?
+  - [ ] nein
+  - [ ] ja
     - wie?
+      - ...
 - Wird die aufgewendete Zeit pro Projekt gemessen?
-  - nein
-  - ja
+  - [ ] nein
+  - [ ] ja
     - wie?
+      - ...
+- Wer gibt "Richtung"/Vision der Gruppe vor?
+  - [ ] der Gruppe übergeordnetes Organ
+  - [ ] Manager/-in
+  - [ ] Gruppe
+  - [ ] einzelne RSEs
 - Wie werden die Projekte ausgewählt, an denen gearbeitet wird / werden soll?
   - Wer entscheidet?
-    - Manager/-innen entscheiden
-    - Gruppe entscheidet
-    - der Gruppe übergeordnetes Organ entscheidet
+    - [ ] der Gruppe übergeordnetes Organ
+    - [ ] Manager/-in
+    - [ ] Gruppe
+    - [ ] einzelne RSEs
   - Anhand welcher Kriterien wird entschieden (sortieren wenn möglich)?
     - [ ] Fertigkeiten
     - [ ] Interesse
@@ -81,6 +173,7 @@
     - [ ] Sichtbarkeit der Projekte (und damit der Arbeit der Gruppe)
     - [ ] (voraussichtliche) Verfügbarkeit von Arbeitskräften
     - [ ] strategische Überlegungen (z.Bsp. breite wissenschaftl. Ausdehnung)
+    - [ ] Anderes (was?)
 - Welche Dauer können/dürfen Projekte haben?
     - [ ] < 1 Woche
     - [ ] > 1 Woche, < 1 Monat
@@ -91,28 +184,63 @@
     - [ ] > 1 Woche, < 1 Monat
     - [ ] > 1 Monat, < 1 Jahr
     - [ ] > 1 Jahr
-- An Manager: wieviel Zeit (Prozent) ist für Management nötig?
-- Können Sie feste Stellen ausschreiben, haben dafür aber "nur" zeitlich begrenzte Projektgelder?
+- An Manager/-in: wieviel Zeit (Prozent) ist für Management nötig?
+  - ...%
+- Können Sie feste Stellen ausschreiben, die aber "nur" von jeweils zeitlich begrenzten Projektgeldern gestützt sind?
+  - [ ] ja
+  - [ ] nein
 - Können RSEs Teil ihrer Zeit an eigenen, finanziell ungeförderten Projekten arbeiten?
-  - nein
-  - ja
+  - [ ] nein
+  - [ ] ja
     - ist das formal festgelegt?
+      - [ ] nein
+      - [ ] ja
 - Haben Sie Geld für Konferenzbesuche / Dienstreisen?
-  - nein
-  - ja
+  - [ ] nein
+  - [ ] ja
     - etwa wieviel pro Person und Jahr?
-- Haben Sie Geld für persönliche Ausrüstung?
-  - nein
-  - ja
+      - ...
+- Haben Sie Geld für persönliche Ausrüstung (Laptop, Headsets, ...)?
+  - [ ] nein
+  - [ ] ja
     - etwa wieviel pro Person und Jahr?
-- Haben die Mitarbeiter das Recht, ihre Computer selbst zu administrieren (root/admin)?
+      - ...
+- Wird open-source bevorzugt?
+  - [ ] wenn irgend möglich
+  - [ ] bevorzugt, aber nicht ausschließlich
+  - [ ] hat keinen besonderen Stellenwert
+  - [ ] wird eher kritisch gesehen
+- Spielen Belange von open-science eine besondere Rolle?
+  - [ ] Ja, auch von "oben" gefördert/gefordert
+  - [ ] Ja, aber nicht extra von "oben" gefördert/gefordert
+  - [ ] nur untergeordnet
+  - [ ] eigentlich fast nicht bis gar nicht
+- Haben die RSEs das Recht, ihre Computer selbst zu administrieren (root/admin)?
+  - [ ] nein
+  - [ ] ja
 - Benutzen Sie ein internes issue-tracking System?
-  - nein
-  - ja
+  - [ ] nein
+  - [ ] ja
     - welches?
+      - ...
+    - Sind sie zufrieden damit?
+      - [ ] nein
+      - [ ] einigermaßen
+      - [ ] ja
 - Benutzen Sie ein issue-tracking System für externe Anfragen?
-  - nein
-  - ja
+  - [ ] nein
+  - [ ] ja
     - welches?
+      - ...
+    - Sind sie zufrieden damit?
+      - [ ] nein
+      - [ ] einigermaßen
+      - [ ] ja
 
+- Haben Sie noch Fragen, die Sie anderen RSE-Gruppen gern stellen würden?
+  - ...
+- Wollen Sie noch etwas hinzufügen?
+  - ...
+  - ...
+  - ...
 
