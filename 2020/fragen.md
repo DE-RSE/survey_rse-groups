@@ -110,7 +110,32 @@
   - [ ] Mittel anderer Einheiten der Organisation
   - [ ] kommerzielle Angebote
   - [ ] andere Quellen
-- Wer sind die "Kunden/-innen" der Gruppe? (z.Bsp. Wissenschaftler/-innen einer Institution, eines Standortes, eines Projekts, ...)
+- Wer sind (zumindest theoretisch) die "Kunden/-innen" der Gruppe?
+  - [ ] einzelne Projekte
+  - [ ] Teil eines Instituts / einer Universität (auch projektunabhängig)
+  - [ ] ein ganzes Institut / ganze Universität
+  - [ ] mehrere Institute / Universitäten
+- Wie schätzen Sie den Bedarf an Ihren RSE-Diensten ein?
+  - [ ] übersteigt Angebot bei Weitem
+  - [ ] übersteigt Angebot
+  - [ ] hält sich etwa mit Angebot die Waage
+  - [ ] weniger Bedarf als Angebot
+  - [ ] sehr viel weniger Bedarf als Angebot
+- Falls mehr Bedarf als Angebot: was hält Sie davor zurück, mehr anzubieten?
+  - [ ] Personalmittel
+  - [ ] geeignetes Personal schwer zu finden und/oder zu halten
+    - [ ] Gehalt niedriger als Wirtschaft
+    - [ ] oft nur Stellen auf Zeit
+    - [ ] spezielle, notwendige Skills schwer zu finden
+    - [ ] ...
+  - [ ] Einstellungsprozess zu kompliziert / langwierig
+  - [ ] Bedarf außerhalb momentaner Kerndisziplinen
+  - [ ] ...
+- Schätzung: wieviele RSEs wären für Ihr Institut / Ihre Universität nötig, um den Bedarf zu decken?
+  - ...
+- Wieviele Wissenschaftler/-innen arbeiten etwa an Ihrem Institut / Ihrer Universität?
+  - ...
+- Etwa wieviel Prozent der Anfragen auf Zusammenarbeit an Ihre Gruppe resultieren in tatsächliche Projekte?
   - ...
 - Wie nah sind RSEs an der Forschung des jeweiligen Projekts?
   - [ ] unmittelbar beteiligt
