@@ -21,21 +21,31 @@
   - ...
 - Wie und von wem wurde die Gruppe warum gegründet?
   - ...
-- Wie ist die momentane personelle Entwicklung der Gruppe? (wird kleiner/größer/gleichbleibend)
+- Wie ist die _momentane_ personelle Entwicklung der Gruppe?
+  - [ ] vergrößert sich stark
+  - [ ] vergrößert sich
+  - [ ] etwa gleichbleibend
+  - [ ] verkleinert sich
+  - [ ] verkleinert sich stark
+- Abschätzung: wie wird sich die Gruppengröße nach den nächsten 3 Jahren entwickelt haben (in Prozent der momentanen Größe)?
   - ...
-- Abschätzung: wie wird sich die Gruppengröße in den nächsten 3 Jahren entwickeln (konkrete Änderung der Anzahl der Stellen)
-  - ...
-- Wie ist die Gruppe zusammengesetzt? (homogen, nicht homogen, ...)
+- Wie ist die Gruppe zusammengesetzt?
   - bzgl. Anzahl Personen
     - ...
   - bzgl. Anzahl Vollzeitstellen
     - ...
   - bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)
     - ...
-  - bzgl. Art der Stelle: Professur / feste Angestellte / auf Zeit / auf Projektbasis
-    - ...
-  - bzgl. Abschlussart: keiner / Bachelor / Master / PhD
-    - ...
+  - bzgl. Art der Stellen
+    - [ ] Professur (mit RSE-Bezug)
+    - [ ] feste Angestellte
+    - [ ] auf Zeit Angestellte (aber nicht an Projekt gebunden)
+    - [ ] auf Projekt(zeit) Angestellte
+  - bzgl. Abschlussart
+    - < Bachelor
+    - Bachelor
+    - Master
+    - PhD
   - bzgl. Hintergrund der RSEs: Wissenschaftsrichtungen
     - ...
   - Alter
@@ -47,8 +57,11 @@
   - [ ] flexibel, aber Meetings in Person werden erwartet
   - [ ] flexibel, Meetings auch remote möglich und nicht ungewöhnlich
 - Wie ist die Gruppe intern strukturiert?
-  - Wieviele Managementebenen sind das (1 Manager/-in: 1; Manager/-in für Manager/-innen: 2, ...)
-    - ...
+  - Wieviele Managementebenen sind das
+    - keine Ebenen
+    - 1 (Manager über Rest der RSEs)
+    - 2 (Manager über Manager über Rest der RSEs)
+    - 3...
   - Welche Aufstiegsmöglichkeiten gibt es für neue RSEs in der Gruppe?
     - ...
 - Wie hoch ist die Gefahr, (gute) RSEs abgeworben zu bekommen?
@@ -57,6 +70,7 @@
   - [ ] vorhanden, aber nicht besonders hoch
   - [ ] nicht sehr hoch
   - [ ] praktisch nicht vorhanden
+  - [ ] unbekannt
 - Gelingt es, (gutes) Personal dauerhaft zu halten?
   - [ ] (fast) immer
   - [ ] meistens
@@ -69,6 +83,7 @@
   - [ ] (andere) nichtwissenschaftliche Stelle, aber im akademischen Gebiet
   - [ ] Wirtschaft
   - [ ] Gruppe ist zu jung, um Aussagen machen zu können
+  - [ ] unbekannt
 - Wo liegen die Hauptgründe für Abwerbungen?
   - [ ] höheres Gehalt
   - [ ] bessere/vorhandene Aufstiegsmöglichkeiten an anderer Stelle
@@ -77,6 +92,7 @@
   - [ ] private Gründe (z.Bsp. Umzug)
   - [ ] anderes: ...
   - [ ] Gruppe ist zu jung, um Aussagen machen zu können
+  - [ ] unbekannt
 - Wie sieht ein typischer Tag eines RSEs aus?
   - ...
 - im Mittel: Wieviele Projekte bearbeitet jeder RSEs gleichzeitig?
@@ -87,7 +103,7 @@
     - ...
 - Wie tauschen sich RSEs innerhalb der Gruppe über Projekte hinweg aus?
   - ...
-  - Wie gut funktioniert das wirklich?
+  - Wie gut funktioniert das?
     - ...
 - Welche weiterführenden Trainigsmöglichkeiten haben die RSEs?
   - [ ] fach- oder projektspezifisch
@@ -95,50 +111,53 @@
   - [ ] soft-skills (z.Bsp. Persönlichkeitsentwicklung, Zeitmanagement, Lehre, ...)
   - Die RSEs werden dabei
     - [ ] aktiv dazu angehalten, diese zu nutzen
-    - [ ] informiert, dass es diese gibt
+    - [ ] nur informiert, dass es diese gibt
     - [ ] nicht aktiv unterstützt oder informiert, Angebote existieren aber
-    - [ ] Es gibt keine.
+    - [ ] Es gibt keine Angebote.
   - Ist Weiterbildung Teil der Arbeit(szeit)?
     - [ ] ja
     - [ ] nein
     - [ ] teilweise
 - Wie finanziert sich die Gruppe?
   - [ ] Drittmittel
-    - [ ] als (co-)PI?
+    - [ ] mit (co-)PI innerhalb der Gruppe?
+      - [ ] mit (co-)PI auch als Nichtmanager?
     - [ ] mit aktiver Beteiligung in Antragsphase?
   - [ ] zentrale Mittel der Organisation
   - [ ] Mittel anderer Einheiten der Organisation
   - [ ] kommerzielle Angebote
-  - [ ] andere Quellen
+  - [ ] andere Quellen:
 - Wer sind (zumindest theoretisch) die "Kunden/-innen" der Gruppe?
   - [ ] einzelne Projekte
   - [ ] Teil eines Instituts / einer Universität (auch projektunabhängig)
   - [ ] ein ganzes Institut / ganze Universität
   - [ ] mehrere Institute / Universitäten
-- Wie schätzen Sie den Bedarf an Ihren RSE-Diensten ein?
+- Wieviele Wissenschaftler/-innen arbeiten etwa in diesem "Kundenkreis"?
+  - ...
+- Wie schätzen Sie den Bedarf an Ihren RSE-Diensten bei Ihren "Kunden/-innen" ein?
   - [ ] übersteigt Angebot bei Weitem
   - [ ] übersteigt Angebot
   - [ ] hält sich etwa mit Angebot die Waage
   - [ ] weniger Bedarf als Angebot
   - [ ] sehr viel weniger Bedarf als Angebot
-- Falls mehr Bedarf als Angebot: was hält Sie davor zurück, mehr anzubieten?
-  - [ ] Personalmittel
-  - [ ] geeignetes Personal schwer zu finden und/oder zu halten
-    - [ ] Gehalt niedriger als Wirtschaft
-    - [ ] oft nur Stellen auf Zeit
-    - [ ] spezielle, notwendige Skills schwer zu finden
+- Falls mehr Bedarf als Angebot:
+  - Schätzung: wieviele RSEs wären für Ihr Institut / Ihre Universität nötig, um den Bedarf zu decken?
+    - Anzahl Stellen: ...
+    - Prozent des momentanen Angebots: ...
+  - Was hält Sie davor zurück, mehr anzubieten?
+    - [ ] Personalmittel
+    - [ ] Einstellungsprozess zu kompliziert / langwierig
+    - [ ] Bedarf außerhalb momentaner Kerndisziplinen
+    - [ ] geeignetes Personal schwer zu finden und/oder zu halten
+      - [ ] Gehalt niedriger als Wirtschaft
+      - [ ] oft nur Stellen auf Zeit
+      - [ ] spezielle, notwendige Skills sind schwer zu finden
+      - [ ] ...
     - [ ] ...
-  - [ ] Einstellungsprozess zu kompliziert / langwierig
-  - [ ] Bedarf außerhalb momentaner Kerndisziplinen
-  - [ ] ...
-- Schätzung: wieviele RSEs wären für Ihr Institut / Ihre Universität nötig, um den Bedarf zu decken?
-  - ...
-- Wieviele Wissenschaftler/-innen arbeiten etwa an Ihrem Institut / Ihrer Universität?
-  - ...
-- Etwa wieviel Prozent der Anfragen auf Zusammenarbeit an Ihre Gruppe resultieren in tatsächliche Projekte?
-  - ...
+- Etwa wieviel Prozent der Anfragen auf Zusammenarbeit an Ihre Gruppe resultieren in tatsächlichen Projekten?
+  - ...%
 - Wie nah sind RSEs an der Forschung des jeweiligen Projekts?
-  - [ ] unmittelbar beteiligt
+  - [ ] unmittelbar beteiligt als (Mit-)Hauptakteure
   - [ ] mit dabei, aber nicht Hauptakteure
   - [ ] nur lose eingebunden
   - [ ] kaum bis gar nicht beteiligt
@@ -146,17 +165,19 @@
   - Treffen
     - Wie oft?
       - ...
-    - Wie lange?
+    - Wie lange jeweils (pro Treffen)?
       - ...
   - Büros (RSE <-> nicht-RSE)
     - [ ] eher gemeinsam
     - [ ] nicht gemeinsames Büro, aber nahe beieinander (<1 Min zu Fuß & im Gebäude)
     - [ ] weiter auseinander, aber noch "im Großraum" (<1h mit öffentlichen Verkehrsmitteln)
     - [ ] >1h mit öffentlichen Verkehrsmitteln
-- Wie wird die Arbeit der RSE-Gruppe bewertet - gibt es Metriken?
+- Wie wird die Arbeit der RSE-Gruppe bewertet (z.Bsp. via Metriken)?
   - [ ] gar nicht
   - [ ] ohne vordefinierte Metriken
-  - [ ] es gibt vordefinierte Metriken
+  - [ ] via vordefinierte Metriken
+  - Kriteriken/Metriken
+    - ...
 - Wie oft wird bewertet?
   - [ ] <= jeden Monat
   - [ ] <= jedes Jahr
@@ -170,6 +191,11 @@
   - [ ] Es gibt keine Bewertung
 - Wer bewertet die RSE-Gruppe?
   - ...
+- Wer gibt "Richtung"/Vision der Gruppe vor?
+  - [ ] der Gruppe übergeordnetes Organ
+  - [ ] Manager/-in
+  - [ ] Gruppe
+  - [ ] einzelne RSEs
 - Wird die Arbeit der einzelnen RSEs intern einzeln bewertet?
   - [ ] nein
   - [ ] ja
@@ -180,11 +206,6 @@
   - [ ] ja
     - wie?
       - ...
-- Wer gibt "Richtung"/Vision der Gruppe vor?
-  - [ ] der Gruppe übergeordnetes Organ
-  - [ ] Manager/-in
-  - [ ] Gruppe
-  - [ ] einzelne RSEs
 - Wie werden die Projekte ausgewählt, an denen gearbeitet wird / werden soll?
   - Wer entscheidet?
     - [ ] der Gruppe übergeordnetes Organ
@@ -225,7 +246,7 @@
   - [ ] ja
     - etwa wieviel pro Person und Jahr?
       - ...
-- Haben Sie Geld für persönliche Ausrüstung (Laptop, Headsets, ...)?
+- Haben Sie Geld für persönliche Ausrüstung (Laptop, ...)?
   - [ ] nein
   - [ ] ja
     - etwa wieviel pro Person und Jahr?
