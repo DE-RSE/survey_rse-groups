@@ -161,6 +161,11 @@
   - [ ] mit dabei, aber nicht Hauptakteure
   - [ ] nur lose eingebunden
   - [ ] kaum bis gar nicht beteiligt
+- Inwieweit können Mitglieder der RSE-Gruppe in den Projekten selbst gestalterisch tätig werden?
+  - [ ] erledigen primär ihnen vorgesetzte Aufgaben
+  - [ ] werden dazu angehalten, Vorschläge für Änderungen am Projektplan einzubringen
+  - [ ] greifen oft und von selbst gestalterisch in Projekte sein, aber vor allem mit direktem Softwarebezug
+  - [ ] greifen oft und von selbst gestalterisch in Projekte sein, und zwar auch ohne direkten Softwarebezug (aktive Forschungsbeteiligung)
 - Wie tauschen sich RSEs mit nicht-RSEs in Projekten aus?
   - Treffen
     - Wie oft?
@@ -191,6 +196,23 @@
   - [ ] Es gibt keine Bewertung
 - Wer bewertet die RSE-Gruppe?
   - ...
+- Wieviel Rückhalt erfährt die RSE-Gruppe von verschiedenen Teilen des Instituts / der Universität? (Andere setzen sich für RSE-Gruppe ein bzw. unterstützen sie nach ihren Möglichkeiten)
+  - von anderen wissenschaftlichen Mitarbeitern/-innen
+    - [ ] gar keinen oder fast keinen Rückhalt
+    - [ ] verhaltener Rückhalt
+    - [ ] starker Rückhalt
+  - von Gruppenleitern
+    - [ ] gar keinen oder fast keinen Rückhalt
+    - [ ] verhaltener Rückhalt
+    - [ ] starker Rückhalt
+  - von Vorgesetzten (gruppenextern)
+    - [ ] gar keinen oder fast keinen Rückhalt
+    - [ ] verhaltener Rückhalt
+    - [ ] starker Rückhalt
+  - von der Instituts-/Universitätsleitung
+    - [ ] gar keinen oder fast keinen Rückhalt
+    - [ ] verhaltener Rückhalt
+    - [ ] starker Rückhalt
 - Wer gibt "Richtung"/Vision der Gruppe vor?
   - [ ] der Gruppe übergeordnetes Organ
   - [ ] Manager/-in
@@ -264,6 +286,8 @@
 - Haben die RSEs das Recht, ihre Computer selbst zu administrieren (root/admin)?
   - [ ] nein
   - [ ] ja
+- Wie realisieren Sie interne Kommunikation/Projektplanung?
+  - ... (z.Bsp. Scrum, Kanban, ...)
 - Benutzen Sie ein internes issue-tracking System?
   - [ ] nein
   - [ ] ja
@@ -282,6 +306,8 @@
       - [ ] nein
       - [ ] einigermaßen
       - [ ] ja
+- Was sehen Sie derzeit als die größten, struturellen Herausforderungen für die Gruppe? (z.Bsp. Karriereentwicklung der RSEs; Sichtbarkeit/Ansehen in eigener Organisation; Finanzen)
+  - ...
 
 - Haben Sie noch Fragen, die Sie anderen RSE-Gruppen gern stellen würden?
   - ...
