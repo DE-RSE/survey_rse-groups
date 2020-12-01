@@ -1,10 +1,17 @@
-# Fragen
+# RSE-Gruppen-Interview
+
+## Anmerkungen
+
+- Die Fragen sollen als Leitfaden für das Gespräch aber auch einer aggregierten Auswertung dienen. Sie sind nicht "in Stein gemeißelt" und es darf gern auch davon abgewichen werden.
+- Die Antwort zu jeder Frage muss als vertraulich oder öffentlich gekennzeichnet werden, damit wir wissen, wie wir mit den Daten weiterhin arbeiten können. Damit wir nicht bei jeder Antwort nachfragen müssen, haben wir jeweils "vertraulich" oder "öffentlich" vorausgewählt: "vertrauliche" Fragen werden **fett** geschrieben, "öffentliche" dagegen nicht. Sie können jederzeit während des Interviews die Voreinstellung ändern oder von uns ändern lassen. **Vertrauliche Antworten** werden, wenn überhaupt, nur aggregiert über alle Gruppen öffentlich verwertet bzw. so anonymisiert/pseudonymisiert, dass eine Zugehörigkeit zu einer bestimmten Gruppe nicht wiederhergestellt werden kann.
+
+## Fragen
 
 - Wie heißt die Gruppe?
   - ...
 - Wie findet man die Gruppe im WWW (URL)?
   - ...
-- Welche Kontaktperson(en) hat die Gruppe (Name, Email, ORCID)?
+- Welche Kontaktperson(en) hat die Gruppe (Name, Email, ORCID wenn vorhanden)?
   - ...
 - In welcher Organisation / welchen Organisationen ist die Gruppe angesiedelt?
   - ...
@@ -34,7 +41,7 @@
     - ...
   - bzgl. Anzahl Vollzeitstellen
     - ...
-  - bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)
+  - **bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)**
     - ...
   - bzgl. Art der Stellen
     - [ ] Professur (mit RSE-Bezug)
@@ -93,8 +100,6 @@
   - [ ] anderes: ...
   - [ ] Gruppe ist zu jung, um Aussagen machen zu können
   - [ ] unbekannt
-- Wie sieht ein typischer Tag eines RSEs aus?
-  - ...
 - im Mittel: Wieviele Projekte bearbeitet jeder RSEs gleichzeitig?
   - ...
 - im Mittel: Wieviele RSEs sind gleichzeitig an einem Projekt tätig?
@@ -196,7 +201,7 @@
   - [ ] Es gibt keine Bewertung
 - Wer bewertet die RSE-Gruppe?
   - ...
-- Wieviel Rückhalt erfährt die RSE-Gruppe von verschiedenen Teilen des Instituts / der Universität? (Andere setzen sich für RSE-Gruppe ein bzw. unterstützen sie nach ihren Möglichkeiten)
+- **Wieviel Rückhalt erfährt die RSE-Gruppe von verschiedenen Teilen des Instituts / der Universität? (Andere setzen sich für RSE-Gruppe ein bzw. unterstützen sie nach ihren Möglichkeiten)**
   - von anderen wissenschaftlichen Mitarbeitern/-innen
     - [ ] gar keinen oder fast keinen Rückhalt
     - [ ] verhaltener Rückhalt
@@ -266,12 +271,12 @@
 - Haben Sie Geld für Konferenzbesuche / Dienstreisen?
   - [ ] nein
   - [ ] ja
-    - etwa wieviel pro Person und Jahr?
+    - **etwa wieviel pro Person und Jahr?**
       - ...
 - Haben Sie Geld für persönliche Ausrüstung (Laptop, ...)?
   - [ ] nein
   - [ ] ja
-    - etwa wieviel pro Person und Jahr?
+    - **etwa wieviel pro Person und Jahr?**
       - ...
 - Wird open-source bevorzugt?
   - [ ] wenn irgend möglich
@@ -315,4 +320,5 @@
   - ...
   - ...
   - ...
+
 
