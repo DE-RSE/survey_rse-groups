@@ -37,10 +37,6 @@
 - Abschätzung: wie wird sich die Gruppengröße nach den nächsten 3 Jahren entwickelt haben (in Prozent der momentanen Größe)?
   - ...
 - Wie ist die Gruppe zusammengesetzt?
-  - bzgl. Anzahl Personen
-    - ...
-  - bzgl. Anzahl Vollzeitstellen
-    - ...
   - **bzgl. der Bezahlung (wenn zutrifft: Gehaltsstufen des öffentlichen Diensts)**
     - ...
   - bzgl. Art der Stellen
@@ -49,10 +45,10 @@
     - [ ] auf Zeit Angestellte (aber nicht an Projekt gebunden)
     - [ ] auf Projekt(zeit) Angestellte
   - bzgl. Abschlussart
-    - < Bachelor
-    - Bachelor
-    - Master
-    - PhD
+    - [ ] < Bachelor
+    - [ ] Bachelor
+    - [ ] Master
+    - [ ] PhD
   - bzgl. Hintergrund der RSEs: Wissenschaftsrichtungen
     - ...
   - Alter
@@ -61,14 +57,14 @@
 - Wie flexibel sind die Arbeitszeiten (außerhalb Corona)?
   - [ ] feste Arbeitszeiten
   - [ ] feste Kernarbeitszeiten
-  - [ ] flexibel, aber Meetings in Person werden erwartet
+  - [ ] flexibel, aber Meetings in Person werden im Normalfall erwartet
   - [ ] flexibel, Meetings auch remote möglich und nicht ungewöhnlich
 - Wie ist die Gruppe intern strukturiert?
   - Wieviele Managementebenen sind das
-    - keine Ebenen
-    - 1 (Manager über Rest der RSEs)
-    - 2 (Manager über Manager über Rest der RSEs)
-    - 3...
+    - [ ] keine Ebenen
+    - [ ] 1 (Manager über Rest der RSEs)
+    - [ ] 2 (Manager über Manager über Rest der RSEs)
+    - [ ] 3...
   - Welche Aufstiegsmöglichkeiten gibt es für neue RSEs in der Gruppe?
     - ...
 - Wie hoch ist die Gefahr, (gute) RSEs abgeworben zu bekommen?
@@ -137,6 +133,7 @@
   - [ ] Teil eines Instituts / einer Universität (auch projektunabhängig)
   - [ ] ein ganzes Institut / ganze Universität
   - [ ] mehrere Institute / Universitäten
+  - [ ] Instituts/Universitätsexterne
 - Wieviele Wissenschaftler/-innen arbeiten etwa in diesem "Kundenkreis"?
   - ...
 - Wie schätzen Sie den Bedarf an Ihren RSE-Diensten bei Ihren "Kunden/-innen" ein?
@@ -153,17 +150,18 @@
     - [ ] Personalmittel
     - [ ] Einstellungsprozess zu kompliziert / langwierig
     - [ ] Bedarf außerhalb momentaner Kerndisziplinen
+    - [ ] kontrolliertes Wachstum am Standort / Mangel an (physischen) Arbeitsplätzen
     - [ ] geeignetes Personal schwer zu finden und/oder zu halten
       - [ ] Gehalt niedriger als Wirtschaft
       - [ ] oft nur Stellen auf Zeit
       - [ ] spezielle, notwendige Skills sind schwer zu finden
       - [ ] ...
     - [ ] ...
-- Etwa wieviel Prozent der Anfragen auf Zusammenarbeit an Ihre Gruppe resultieren in tatsächlichen Projekten?
+- Etwa wieviel Prozent der Anfragen auf Zusammenarbeit an Ihre Gruppe resultieren in tatsächlichen, finanzierten Projekten?
   - ...%
 - Wie nah sind RSEs an der Forschung des jeweiligen Projekts?
   - [ ] unmittelbar beteiligt als (Mit-)Hauptakteure
-  - [ ] mit dabei, aber nicht Hauptakteure
+  - [ ] aktiv mit dabei, aber nicht Hauptakteure
   - [ ] nur lose eingebunden
   - [ ] kaum bis gar nicht beteiligt
 - Inwieweit können Mitglieder der RSE-Gruppe in den Projekten selbst gestalterisch tätig werden?
@@ -302,7 +300,7 @@
       - [ ] nein
       - [ ] einigermaßen
       - [ ] ja
-- Benutzen Sie ein issue-tracking System für externe Anfragen?
+- Benutzen Sie ein issue-tracking System für gruppen-externe Anfragen?
   - [ ] nein
   - [ ] ja
     - welches?
@@ -313,6 +311,9 @@
       - [ ] ja
 - Was sehen Sie derzeit als die größten, struturellen Herausforderungen für die Gruppe? (z.Bsp. Karriereentwicklung der RSEs; Sichtbarkeit/Ansehen in eigener Organisation; Finanzen)
   - ...
+- Was sind primär eingesetzte Programmiersprachen?
+  - ...
+
 
 - Haben Sie noch Fragen, die Sie anderen RSE-Gruppen gern stellen würden?
   - ...
